@@ -6,3 +6,8 @@ It has 2 modes,
 tells you about all the revelant tourist spots of a city
 # Budget
 Uses the simple techniques of knapsack problem to plan give best tourist locations one can go to using a certain amount of money specified by user.
+# How to use
+Launch "main hackfest.py" to start the program
+
+
+This program was made for a hackathon called Hackfest by GeeksForGeeks in collaboration with Karan Kumar
